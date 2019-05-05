@@ -1,0 +1,4 @@
+Evgeny's attempt at String Calculator
+
+run tests:
+mvn test
